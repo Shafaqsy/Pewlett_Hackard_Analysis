@@ -15,3 +15,12 @@ The purpose of the Analysis is to merge two or more tables by using postgress SQ
 ### Mentorship_eligibilty:
 
 <img width="575" alt="mentorship_eligibilty" src="https://user-images.githubusercontent.com/107155888/181613304-0a234894-c4e7-4a20-b3a1-a9670fc355ab.png">
+
+## Summary
+1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?.
+
+There are 90,398 employes are retiring and that's a huge number. The company needs to hire people urgently. 90,398 roles  need to be filled out as soon as the workforce starts retiring.
+
+2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+I don't think there's enough employees to mentor the next generation because  we only have 1,550 employees who are eligible to participate in a mentorship program. 
